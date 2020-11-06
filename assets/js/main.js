@@ -1,9 +1,3 @@
-/*
-	Story by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
-
 (function($) {
 
 	var	$window = $(window),
@@ -339,3 +333,5 @@
 						});
 
 })(jQuery);
+
+document.getElementById('hidden-email').innerHTML = "<a href=\"mailto:walkerrm@gmail.com?subject=RWalker.Dev contact\" class=\"icon style2 fa-envelope\"><span class=\"label\">Email</span></a>";
