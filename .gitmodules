@@ -1,0 +1,3 @@
+[submodule "MovieFight"]
+	path = MovieFight
+	url = https://github.com/walkerofthewoods/MovieFight.git
